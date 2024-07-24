@@ -11,7 +11,7 @@ export default defineConfig({
     },
 
     themeConfig: {
-        head: [["link", {rel: "icon", href: "/docs-template/mcdd.jpg"}]],
+        head: [["link", {rel: "icon", href: "/JavaStudy/logo.svg"}]],
         outline: [1, 4],
         lastUpdated: true,
 

@@ -19,7 +19,7 @@ docker run -itd --name java-study-docs -p 80:80 ghcr.io/mcdd0506/java-study-docs
 
 > [!TIP]
 >
-> 注意将命令中的 `version` 替换为相应版本 https://github.com/mcdd0506/JavaStudy/pkgs/container/JavaStudy-docs
+> 注意将命令中的 `version` 替换为相应版本 https://github.com/mcdd0506/JavaStudy/pkgs/container/java-study-docs
 
 ![image-20240712044650097](https://2024-cbq-1311841992.cos.ap-beijing.myqcloud.com/picgo/202407120446127.png)
 

@@ -1,7 +1,7 @@
 FROM nginx
-LABEL authors="cbq1024"
+LABEL authors="mcdd0506"
 
-COPY ./docs/.vitepress/dist ./usr/share/nginx/html/sb3-study
+COPY ./docs/.vitepress/dist ./usr/share/nginx/html/java-study
 COPY config/nginx.conf ./etc/nginx/conf.conf
 COPY config/conf.d ./etc/nginx/conf.d
 
