@@ -2,7 +2,7 @@ import {defineConfig} from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-    base: "/java-study/",
+    base: "/JavaStudy/",
     description: "A study project for java dev",
     title: 'Java-Study',
     markdown: {
